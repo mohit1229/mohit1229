@@ -1,3 +1,4 @@
+Hi, I'm Mohit Kumar!
 # 💫 About Me:
 
 🔭 I’m I'm a computer science student currently working on the revamp of my college website<br>🌱 I’m currently learning Next JS and PostgreSQL
