@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on the revamp of my college website<br>🌱 I’m currently learning Next JS and PostgreSQL
+
+🔭 I’m I'm a computer science student currently working on the revamp of my college website<br>🌱 I’m currently learning Next JS and PostgreSQL
 
 
 ## 🌐 Socials:
